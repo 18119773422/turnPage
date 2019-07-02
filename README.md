@@ -1,3 +1,4 @@
+[预览到它](https://18119773422.github.io/turnPage/dist)
 ### turnPage
 翻页插件
  **移动端也可以使用**
